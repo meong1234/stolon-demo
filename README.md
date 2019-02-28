@@ -2,6 +2,8 @@
 
 ## Let's use stolon to start PostgreSQL server
 
+> Prerequisite: [Consul](https://www.consul.io/) server should be running in local
+
 ### starting pg - stolon keeper
 
 ```bash
